@@ -11,3 +11,5 @@ gems:
   - jekyll-paginate
 markdown: kramdown
 baseurl: /python
+
+theme: jekyll-theme-minimal
